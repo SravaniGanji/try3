@@ -12,7 +12,7 @@ from sklearn.linear_model import LinearRegression
 # app=Flask(__name__)
 # Swagger(app)
 
-pickle_in = open('model_pickle','rb')
+pickle_in = open('model_pickle(1)','rb')
 classifier = pickle.load(pickle_in)
 
 
