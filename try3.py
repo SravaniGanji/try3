@@ -45,3 +45,4 @@ def main():
         st.text("Lets Learn")
         st.text("Built with Streamlit")
 
+main()
